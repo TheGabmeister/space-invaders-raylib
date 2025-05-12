@@ -1,1 +1,1 @@
-## Space Invader using raylib
+## Space Invaders using raylib
